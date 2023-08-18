@@ -6,7 +6,7 @@
 //
 
 #include <iostream>
-#include <string>
+#include "Employee.hpp"
 
 
 int main(int argc, const char * argv[]) {
