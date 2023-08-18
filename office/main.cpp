@@ -7,6 +7,7 @@
 
 #include <iostream>
 #include "Employee.hpp"
+#include "Staff.hpp"
 
 
 int main(int argc, const char * argv[]) {

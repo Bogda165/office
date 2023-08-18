@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		88F63BFB2A8FD985002470FD /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 88F63BFA2A8FD985002470FD /* main.cpp */; };
 		88F63C062A8FDC6C002470FD /* Employee.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 88F63C042A8FDC6C002470FD /* Employee.cpp */; };
+		88F63C092A8FE1DB002470FD /* Staff.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 88F63C072A8FE1DB002470FD /* Staff.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,8 @@
 		88F63BFA2A8FD985002470FD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		88F63C042A8FDC6C002470FD /* Employee.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Employee.cpp; sourceTree = "<group>"; };
 		88F63C052A8FDC6C002470FD /* Employee.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Employee.hpp; sourceTree = "<group>"; };
+		88F63C072A8FE1DB002470FD /* Staff.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Staff.cpp; sourceTree = "<group>"; };
+		88F63C082A8FE1DB002470FD /* Staff.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Staff.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 				88F63BFA2A8FD985002470FD /* main.cpp */,
 				88F63C042A8FDC6C002470FD /* Employee.cpp */,
 				88F63C052A8FDC6C002470FD /* Employee.hpp */,
+				88F63C072A8FE1DB002470FD /* Staff.cpp */,
+				88F63C082A8FE1DB002470FD /* Staff.hpp */,
 			);
 			path = office;
 			sourceTree = "<group>";
@@ -126,6 +131,7 @@
 			files = (
 				88F63BFB2A8FD985002470FD /* main.cpp in Sources */,
 				88F63C062A8FDC6C002470FD /* Employee.cpp in Sources */,
+				88F63C092A8FE1DB002470FD /* Staff.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
